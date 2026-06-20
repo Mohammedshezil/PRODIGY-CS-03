@@ -71,3 +71,22 @@ PassCheck is a real-time password strength analyzer built with Python and Custom
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/Mohammedshezil/PRODIGY-CS-03.git](https://github.com/Mohammedshezil/PRODIGY-CS-03.git)
+   ```
+2. **Install dependencies**
+
+    ```Bash
+    pip install -r requirements.txt
+    ```
+3. **Run the application**
+
+    ```Bash
+    python pass-check.py
+    ```
+
+### 🤝 Credits & Branding
+
+   **Developer:** Mohammed Shezil
+   **Organization:** Prodigy Infotech  
+   **TASK:** TASK 03
+    
+This tool is for educational and security assessment purposes only.
