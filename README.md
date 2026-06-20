@@ -85,7 +85,7 @@ PassCheck is a real-time password strength analyzer built with Python and Custom
 
 ### 🤝 Credits & Branding
 
-   **Developer:** Mohammed Shezil
+   **Developer:** MOHAMMED SHEZIL  
    **Organization:** Prodigy Infotech  
    **TASK:** TASK 03
     
